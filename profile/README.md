@@ -1,6 +1,6 @@
 ## WasomePLC resources
 
-This GitHub provides useful resources for WasomePLC, including tutorials, demos etc. 
+This GitHub organization provides useful resources for WasomePLC, including tutorials, demos etc. 
 
 If you are interested, please drop an email to kevin0626@wansheng-intelli.com for access to the repos.
 
