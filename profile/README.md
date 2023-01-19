@@ -2,7 +2,7 @@
 
 This GitHub organization provides useful resources for WasomePLC, including tutorials, demos etc. 
 
-If you are interested, please drop an email to kevin0626@wansheng-intelli.com for access to the repos.
+If you are interested, please drop an email to business@wansheng-intelli.com for access to the repos.
 
 Visit http://www.wansheng-intelli.com/ for more details.
 
